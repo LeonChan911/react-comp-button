@@ -1,5 +1,5 @@
 {
-  "name": "react-comp-button",
+  "name": "dhr-bot-basic",
   "version": "1.0.0",
   "description": "",
   "main": "dist/bundle.js",
@@ -15,7 +15,10 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "classnames": "^2.2.6",
+    "antd": "^3.19.3"
+    
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",

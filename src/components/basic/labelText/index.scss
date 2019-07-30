@@ -1,0 +1,20 @@
+.bot-labelText{
+  &-body{
+    padding:0 20px;
+  }
+  &-title{
+    color: #111111;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  &-subTitle{
+    font-size: 12px;
+    line-height: 30px;
+    color: #111111;
+    font-weight: bold;
+  }
+  &-desc{
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+}
